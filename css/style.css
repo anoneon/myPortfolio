@@ -1,0 +1,43 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    color: white;
+}
+
+#headerSection{
+    background: url("../images/start-background.jpg") center center no-repeat;
+    background-size: cover;
+}
+
+.container-fluid{
+    padding: 7% 15%;
+}
+
+.navbar{
+    padding: 0 0 4rem;
+}
+
+.navbar-brand{
+    font-size: 2rem;
+}
+
+.nav-item{
+ padding: 0 18px;
+}
+
+.nav-link{
+    font-size: 1.2rem;
+}
+
+.headerHeading{
+    padding: 3rem;
+    font-size: 2rem;
+    line-height: 1.4;
+    font-weight: 900;
+}
+
+.headerParagraph{
+    font-size: 1.3rem;
+    font-weight: 300;
+    padding: 2rem 106px 0;
+}
